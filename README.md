@@ -18,7 +18,7 @@ Courses:
 - Data Science and Machine Learning Capstone Project
 
 ### <b>Kaggle.com Micro-courses</b>
-- Python
+- Python: https://github.com/vinnav/VNavarra-CV/blob/master/Certificates/Kaggle/1-Python.png
 
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>

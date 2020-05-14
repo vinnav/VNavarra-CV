@@ -17,6 +17,9 @@ Courses:
 - Machine Learning with Python: A practical Introduction
 - Data Science and Machine Learning Capstone Project
 
+### <b>Kaggle.com Micro-courses</b>
+- Python
+
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>
 

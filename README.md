@@ -24,7 +24,7 @@ Courses:
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>
 
-Specialization Certificate: https://www.coursera.org/account/accomplishments/specialization/T34QKTSL386T?utm_source=link&utm_campaign=copybutton_certificate&utm_product=prof
+Specialization Certificate: https://www.coursera.org/account/accomplishments/specialization/T34QKTSL386T
 
 Courses:
 - Crash Course on Python

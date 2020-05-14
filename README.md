@@ -17,9 +17,6 @@ Courses:
 - Machine Learning with Python: A practical Introduction
 - Data Science and Machine Learning Capstone Project
 
-### <b>Kaggle.com Micro-courses</b>
-- Python: https://github.com/vinnav/VNavarra-CV/blob/master/Certificates/Kaggle/1-Python.png
-
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>
 
@@ -32,6 +29,12 @@ Courses:
 - Troubleshooting and Debugging Techniques
 - Configuration Management and the Cloud
 - Automating Real-World Tasks with Python
+
+### <b>Kaggle.com Micro-courses</b>
+- Python: https://github.com/vinnav/VNavarra-CV/blob/master/Certificates/Kaggle/1-Python.png
+
+### Exercises
+https://github.com/vinnav/Python-Crash-Course
 
 ## <b>Web Development</b>
 ### <b>Odin Project</b>

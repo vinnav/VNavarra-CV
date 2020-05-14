@@ -69,7 +69,7 @@ https://vinnav.github.io/CssAnimationGame/
 - CSS Drop down menu
 https://vinnav.github.io/DropDownMenu/
 
-## <b>Legal</b>
+## <b>Other</b>
 - Introduction to English Common Law, University of London
 - Protecting Business Innovations via Patent, Hong Kong University of Science and Technology
 - General Course on Intellectual Property, World Intellectual Property Organization

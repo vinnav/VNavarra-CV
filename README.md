@@ -18,12 +18,13 @@ Courses:
 - Data Science and Machine Learning Capstone Project
 
 ### <b>Kaggle.com Micro-courses</b>
-- Intro to Machine Learning: https://github.com/vinnav/VNavarra-CV/blob/master/Certificates/Kaggle/2%20-%20Intro%20to%20Machine%20Learning.png
+- Intro to Machine Learning: https://git.io/JfBiN
+- Intermediate Machine Learning: https://git.io/JfBib
 
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>
 
-Specialization Certificate: https://www.coursera.org/account/accomplishments/specialization/T34QKTSL386T?utm_source=link&utm_campaign=copybutton_certificate&utm_product=prof
+Specialization Certificate: https://www.coursera.org/account/accomplishments/specialization/T34QKTSL386T
 
 Courses:
 - Crash Course on Python

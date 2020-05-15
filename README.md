@@ -20,7 +20,8 @@ Courses:
 ### <b>Kaggle.com Micro-courses</b>
 - Intro to Machine Learning: https://git.io/JfBiN
 - Intermediate Machine Learning: https://git.io/JfBib
-- Data Visualization: https://github.com/vinnav/VNavarra-CV/blob/master/Certificates/Kaggle/4%20-%20Data%20Visualization.png
+- Data Visualization: https://git.io/JfRiP
+- Pandas: https://git.io/JfRi1
 
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>

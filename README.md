@@ -22,6 +22,7 @@ Courses:
 - Intermediate Machine Learning: https://git.io/JfBib
 - Data Visualization: https://git.io/JfRiP
 - Pandas: https://git.io/JfRi1
+- Feature Engineering: https://git.io/Jf035
 
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>

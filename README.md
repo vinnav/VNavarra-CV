@@ -23,6 +23,7 @@ Courses:
 - Data Visualization: https://git.io/JfRiP
 - Pandas: https://git.io/JfRi1
 - Feature Engineering: https://git.io/Jf035
+- Deep Learning: https://git.io/Jfz9e
 
 ## <b>Python</b>
 ### <b>Google IT Automation with Python Professional Certificate</b>

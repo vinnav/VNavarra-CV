@@ -39,7 +39,7 @@ Courses:
 - Automating Real-World Tasks with Python
 
 ### <b>Kaggle.com Micro-courses</b>
-- Python: https://github.com/vinnav/VNavarra-CV/blob/master/Certificates/Kaggle/1-Python.png
+- Python: https://git.io/Jfz9I
 
 ### Exercises
 https://github.com/vinnav/Python-Crash-Course

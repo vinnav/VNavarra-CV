@@ -86,7 +86,7 @@ https://vinnav.github.io/DropDownMenu/
 ## <b>Other</b>
 - Financial Markets, Yale University: https://www.coursera.org/account/accomplishments/records/B5WPD5PNVGQG
 - Introduction to English Common Law, University of London
-- Protecting Business Innovations via Patent, Hong Kong University of Science and Technology
+- Protecting Business Innovations via Patents, Hong Kong University of Science and Technology
 - General Course on Intellectual Property, World Intellectual Property Organization
 - Scrum Fundamentals Certified: https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-VincenzoNavarra-733332.pdf
 - Six Sigma Yellow Belt: http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-VincenzoNavarra-704277.pdf

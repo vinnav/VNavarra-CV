@@ -84,6 +84,7 @@ https://vinnav.github.io/CssAnimationGame/
 https://vinnav.github.io/DropDownMenu/
 
 ## <b>Other</b>
+- Financial Markets, Yale University: https://www.coursera.org/account/accomplishments/records/B5WPD5PNVGQG
 - Introduction to English Common Law, University of London
 - Protecting Business Innovations via Patent, Hong Kong University of Science and Technology
 - General Course on Intellectual Property, World Intellectual Property Organization

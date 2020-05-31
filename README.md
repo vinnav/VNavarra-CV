@@ -43,6 +43,7 @@ Courses:
 
 ### Exercises
 https://github.com/vinnav/Python-Crash-Course
+https://github.com/vinnav/Python_exercises
 
 ## <b>Web Development</b>
 ### <b>Odin Project</b>

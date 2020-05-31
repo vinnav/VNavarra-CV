@@ -2,9 +2,9 @@
 ## <b>Data Science</b>
 ### <b>IBM Data Science Professional Certificate</b>
 
-Github: https://github.com/vinnav/IBM-DataScience
-
 Specialization Certificate: https://credentials.edx.org/credentials/9e709609db624e0f93f2c34a0d24e92b/
+
+Github: https://github.com/vinnav/IBM-DataScience
 
 Courses:
 - Introduction to Data Science
